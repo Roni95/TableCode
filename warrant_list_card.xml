@@ -52,7 +52,7 @@
 
                 <TextView
                     android:id="@+id/wreference"
-                    android:layout_width="w"
+                    android:layout_width=" "
                     android:layout_height="match_parent"
                     android:padding="3dip"
                     android:text="CR-420 155A" />
@@ -73,7 +73,7 @@
 
                 <TextView
                     android:id="@+id/wname"
-                    android:layout_width="w"
+                    android:layout_width=" "
                     android:layout_height="match_parent"
                     android:padding="3dip"
                     android:text="Md. Abid Hasan Roni Bokshi" />
@@ -94,7 +94,7 @@
 
                 <TextView
                     android:id="@+id/wfather"
-                    android:layout_width="w"
+                    android:layout_width=" "
                     android:layout_height="match_parent"
                     android:padding="3dip"
                     android:text="Md. Abdul Goni Bakshi " />
@@ -115,7 +115,7 @@
 
                 <TextView
                     android:id="@+id/waddress"
-                    android:layout_width="w"
+                    android:layout_width=" "
                     android:layout_height="wrap_content"
                     android:padding="3dip"
                     android:text="Nazimkhan (5611), Rajarhat, Kurigram, Rangpur, Dhaka, Bangladesh" />
