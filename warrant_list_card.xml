@@ -33,6 +33,7 @@
                     android:layout_width="wrap_content"
                     android:layout_height="match_parent"
                     android:padding="3dip"
+                    android:gravity="left"
                     android:text="695"
                     android:textSize="14dp" />
             </TableRow>
@@ -53,6 +54,8 @@
                 <TextView
                     android:id="@+id/wreference"
                     android:layout_width=" "
+
+                    android:gravity="left"
                     android:layout_height="match_parent"
                     android:padding="3dip"
                     android:text="CR-420 155A" />
@@ -74,6 +77,8 @@
                 <TextView
                     android:id="@+id/wname"
                     android:layout_width=" "
+
+                    android:gravity="left"
                     android:layout_height="match_parent"
                     android:padding="3dip"
                     android:text="Md. Abid Hasan Roni Bokshi" />
@@ -94,6 +99,8 @@
 
                 <TextView
                     android:id="@+id/wfather"
+
+                    android:gravity="left"
                     android:layout_width=" "
                     android:layout_height="match_parent"
                     android:padding="3dip"
@@ -115,6 +122,7 @@
 
                 <TextView
                     android:id="@+id/waddress"
+                    android:gravity="left"
                     android:layout_width=" "
                     android:layout_height="wrap_content"
                     android:padding="3dip"
